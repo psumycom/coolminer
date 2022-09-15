@@ -17,6 +17,10 @@ Web界面操作，简单易用，一键安装，小白可以轻松上手。开�
 ![image](https://user-images.githubusercontent.com/105292192/168423593-595242fc-0808-4609-b438-7911ab1a92db.png)
 ![image](https://user-images.githubusercontent.com/105292192/168423650-f37b8da0-2a5e-4961-b7f7-eed841cd81b3.png)
 
+# 设置模板
+![image](https://user-images.githubusercontent.com/105292192/190327307-5dc6eb95-f2aa-46ff-8ad1-ae24d5b2612e.png)
+
+
 # 更新日志
 ```bash
 2022-9-15 13：50  版本：1.6.16   
