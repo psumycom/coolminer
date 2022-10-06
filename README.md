@@ -23,6 +23,10 @@ Web界面操作，简单易用，一键安装，小白可以轻松上手。开�
 
 # 更新日志
 ```bash
+2022-10-6   版本：v1.6.21.bcfbcbe
+1.新增币种 ： ZEC 鱼池
+2.已支持币种 Eth ETHW ETC ETHF BTC LTC ERGO RVN KAS CFX ZEC
+
 2022-10-4   版本：v1.6.20.6e3c350
 1.新增BTC矿池  BTC.COM
 2.新增LTC矿池  鱼池F2POOL
