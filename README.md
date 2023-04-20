@@ -9,6 +9,12 @@ Web界面操作，简单易用，一键安装，小白可以轻松上手。开�
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Allminer/minerProxy/main/allminer.sh)"
 ```
 
+# 尝鲜版安装升级命令
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Allminer/minerProxy/main/allminer.sh)"
+```
+
 > 选择 `1` 为安装服务.
 > 选择 `2` 为更新程序.
 
@@ -23,6 +29,10 @@ Web界面操作，简单易用，一键安装，小白可以轻松上手。开�
 
 # 更新日志
 ```bash
+2023-4-20   尝鲜版本：v1.6.29
+1.支持NEXA
+2.修复偶尔服务崩溃重启问题
+
 2023-3-31   版本：v1.6.28
 1.修复KASPA抽水
 2.修复鱼池某些币种ssl下连接失败的问题
