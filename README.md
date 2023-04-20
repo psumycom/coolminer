@@ -12,7 +12,7 @@ Web界面操作，简单易用，一键安装，小白可以轻松上手。开�
 # 尝鲜版安装升级命令
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Allminer/minerProxy/main/allminer.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Allminer/minerProxy/main/allminer_beta.sh)"
 ```
 
 > 选择 `1` 为安装服务.
